@@ -1,0 +1,63 @@
+{
+  "names":{
+    "Name":"Alexander Avery",
+    "Full Name":"Alexander Avery (aa-ver-ee), Count of Vincelli (venn-chel-ee)",
+    "Other Names":[]
+  },
+  "basics":{
+    "Birthdate":"?",
+    "Age":"?",
+    "Zodiac":"?",
+    "Gender":"Cis Male",
+    "Sexuality":"Heterosexual",
+    "Religion":"Catholic"
+  },
+  
+  "appearance":{
+    "Skin color":"",
+    "Hair color":"",
+    "Eye color":"",
+    "Height":"",
+    "Body shape":""
+  },
+  
+  "personality":{
+    "Polite/Well-mannered":"...",
+    "Materialistic":"..."
+  },
+  
+  "skills":{
+    "Management":"...",
+    "Shooting":"..."
+  },
+  "hobbies":{
+    "Noble":"...",
+    "Hunting":"..."
+  },
+  "likes":["...","..."],
+  "dislikes":["...","..."],
+  
+  "story":"Head of the Vincelli family.",
+  
+  "relationships":[{
+    "name":"Katherine Avery",
+    "url":"/characters/?name=Katherine-Avery",
+    "description":"Wife"
+  },{
+    "name":"Henry Avery",
+    "url":"/characters/?name=Henry-Avery",
+    "description":"Eldest son"
+  },{
+    "name":"Priscilla Avery",
+    "url":"/characters/?name=Priscilla-Avery",
+    "description":"Eldest daughter"
+  },{
+    "name":"Lily Avery",
+    "url":"/characters/?name=Lily-Avery",
+    "description":"Youngest daughter"
+  },{
+    "name":"Adam Avery",
+    "url":"/characters/?name=Adam-Avery",
+    "description":"Youngest son"
+  }]
+}

@@ -1,0 +1,62 @@
+{
+  "names":{
+    "Name":"Adam Avery",
+    "Full Name":"Adam Avery (aa-ver-ee), Lord of Vincelli (venn-chel-ee)",
+    "Other Names":[]
+  },
+  "basics":{
+    "Birthdate":"?",
+    "Age":10,
+    "Zodiac":"?",
+    "Gender":"Cis Male",
+    "Sexuality":"?",
+    "Religion":"Catholic"
+  },
+  
+  "appearance":{
+    "Skin color":"",
+    "Hair color":"",
+    "Eye color":"",
+    "Height":"",
+    "Body shape":""
+  },
+  
+  "personality":{
+    "x":"...",
+    "x2":"..."
+  },
+  
+  "skills":{
+    "Polite/Well-mannered":"...",
+    "Mischievous":"..."
+  },
+  "hobbies":{
+    "Noble":"..."
+  },
+  "likes":["...","..."],
+  "dislikes":["...","..."],
+  
+  "story":"Second successor of the Vincelli family.",
+  
+  "relationships":[{
+    "name":"Alexander Avery",
+    "url":"/characters/?name=Alexander-Avery",
+    "description":"Father"
+  },{
+    "name":"Katherine Avery",
+    "url":"/characters/?name=Katherine-Avery",
+    "description":"Mother"
+  },{
+    "name":"Henry Avery",
+    "url":"/characters/?name=Henry-Avery",
+    "description":"Older brother"
+  },{
+    "name":"Priscilla Avery",
+    "url":"/characters/?name=Priscilla-Avery",
+    "description":"Older sister"
+  },{
+    "name":"Lily Avery",
+    "url":"/characters/?name=Lily-Avery",
+    "description":"Older sister"
+  }]
+}

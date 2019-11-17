@@ -1,0 +1,48 @@
+{
+  "names":{
+    "Name":"Dawn Kaida",
+    "Full Name":"Dawn (don) Kaida (k-AI-duh)",
+    "Other Names":["Dawn Kaiya (forgiveness)","Kaida (little dragon)"]
+  },
+  "basics":{
+    "Birthdate":"August 19",
+    "Age":22,
+    "Zodiac":"Leo, Sheep",
+    "Gender":"Cis Female",
+    "Sexuality":"Bisexual",
+    "Religion":"Agnostic"
+  },
+  
+  "appearance":{
+    "Skin color":"Tan yellow",
+    "Hair color":"Ebony black",
+    "Eye color":"Brown (turns gold)",
+    "Height":"5ft. 5in.",
+    "Body shape":"Straight, Athletic"
+  },
+  
+  "personality":{
+    "Witty":"...",
+    "Lonewolf":"..."
+  },
+  
+  "skills":{
+    "Martial Arts":"With wushu flavor, and a straightsword.",
+    "Calligraphy":"",
+    "Music":"Plays the flute and piano"
+  },
+  "hobbies":{
+    "Drawing":"Sketching...",
+    "Reading":"..."
+  },
+  "likes":["Shopping","Eating spicy food"],
+  "dislikes":["Scary things","Slimy things"],
+  
+  "story":"...",
+  
+  "relationships":[{
+    "name":"Fabien",
+    "url":"",
+    "description":"Her companion"
+  }]
+}

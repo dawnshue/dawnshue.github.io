@@ -1,0 +1,61 @@
+{
+  "names":{
+    "Name":"Priscilla Avery",
+    "Full Name":"Priscilla Avery (aa-ver-ee), Count of Vincelli (venn-chel-ee)",
+    "Other Names":[]
+  },
+  "basics":{
+    "Birthdate":"?",
+    "Age":20,
+    "Zodiac":"?",
+    "Gender":"Cis Female",
+    "Sexuality":"Heterosexual",
+    "Religion":"Catholic"
+  },
+  
+  "appearance":{
+    "Skin color":"",
+    "Hair color":"",
+    "Eye color":"",
+    "Height":"",
+    "Body shape":""
+  },
+  
+  "personality":{
+    "Polite/Well-mannered":"...",
+    "Confident":"..."
+  },
+  
+  "skills":{
+    "Piano":"..."
+  },
+  "hobbies":{
+    "Shopping":"..."
+  },
+  "likes":["...","..."],
+  "dislikes":["...","..."],
+  
+  "story":"Eldest daughter of the Vincelli family.",
+  
+  "relationships":[{
+    "name":"Alexander Avery",
+    "url":"/characters/?name=Alexander-Avery",
+    "description":"Father"
+  },{
+    "name":"Katherine Avery",
+    "url":"/characters/?name=Katherine-Avery",
+    "description":"Mother"
+  },{
+    "name":"Henry Avery",
+    "url":"/characters/?name=Henry-Avery",
+    "description":"Oldest [older] brother"
+  },{
+    "name":"Lily Avery",
+    "url":"/characters/?name=Lily-Avery",
+    "description":"Youngest [younger] sister"
+  },{
+    "name":"Adam Avery",
+    "url":"/characters/?name=Adam-Avery",
+    "description":"Youngest [younger] brother"
+  }]
+}

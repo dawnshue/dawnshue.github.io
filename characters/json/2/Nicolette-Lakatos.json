@@ -1,0 +1,58 @@
+{
+  "names":{
+    "Name":"Nicolette Lakatos",
+    "Full Name":"Nicolette (nee-k-O-let) Lakatos (lah-kah-tohs)",
+    "Other Names":["Nikki"]
+  },
+  "basics":{
+    "Birthdate":"May 15",
+    "Age":"18",
+    "Zodiac":"Taurus",
+    "Gender":"Cis Female",
+    "Sexuality":"Possibly Bisexual",
+    "Religion":"Aetheist",
+    "Race":"Human"
+  },
+  
+  "appearance":{
+    "Skin color":"Lightly tan",
+    "Hair color":"Deep green",
+    "Eye color":"Golden yellow",
+    "Height":"5ft. 6in.",
+    "Body shape":"Lithe and muscled"
+  },
+  
+  "personality":{
+    "Forthright":"She's direct and outspoken, so she won't shy from making herself heard. However, it also tends to make her an 'actions-first-think-later' sort of person. Well, no one said she was the brains of the operation.",
+    "Competitive":"Nothing like a good competition to improve oneself, right?",
+    "Narcissistic":"Though she makes her confidence in her own looks quite known, she still gets jealous of other beautiful girls."
+  },
+  
+  "skills":{
+    "Leadership":"...",
+    "Whips":"Her choice of weapon."
+  },
+  "hobbies":{
+    "Training/Exercising":"..."
+  },
+  "likes":["good food","..."],
+  "dislikes":["cooking","..."],
+  
+  "story":"...",
+  "extras":[
+    "Nicolette is on the list of 'sexiest baby names' on BabyNameWizard.",
+    "Lakatos is common Italian surname that (supposedly?) means locksmith.",
+    "Nicolette likes the number 5, because it a number that tetters at the edge, and it therefore unpredictable.",
+    "Nicolette's birthday was derived because her personality is closed like a Taurus, the number 1 is associated with strong will, the number 5 is associated with adventure and motion, and she leans towards Gemini rather than Aries."
+  ],
+  
+  "relationships":[{
+    "name":"Lily Avery",
+    "url":"/characters/?name=Lily-Avery",
+    "description":"Frenemy?"
+  },{
+    "name":"Falcon Hughes",
+    "url":"/characters/?name=Falcon-Hughes",
+    "description":"Love interest?"
+  }]
+}
