@@ -1,0 +1,63 @@
+{
+  "names":{
+    "Name":"Henry Avery",
+    "Full Name":"Henry Avery (aa-ver-ee), Lord of Vincelli (venn-chel-ee)",
+    "Other Names":[]
+  },
+  "basics":{
+    "Birthdate":"?",
+    "Age":22,
+    "Zodiac":"?",
+    "Gender":"Cis Male",
+    "Sexuality":"Heterosexual",
+    "Religion":"Catholic"
+  },
+  
+  "appearance":{
+    "Skin color":"",
+    "Hair color":"",
+    "Eye color":"",
+    "Height":"",
+    "Body shape":""
+  },
+  
+  "personality":{
+    "Polite/Well-mannered":"...",
+    "Easygoing":"...",
+    "Confident":"..."
+  },
+  
+  "skills":{
+    "Shooting":"..."
+  },
+  "hobbies":{
+    "Noble":"...",
+    "Hunting":"..."
+  },
+  "likes":["...","..."],
+  "dislikes":["...","..."],
+  
+  "story":"First successor of the Vincelli family.",
+  
+  "relationships":[{
+    "name":"Alexander Avery",
+    "url":"/characters/?name=Alexander-Avery",
+    "description":"Father"
+  },{
+    "name":"Katherine Avery",
+    "url":"/characters/?name=Katherine-Avery",
+    "description":"Mother"
+  },{
+    "name":"Priscilla Avery",
+    "url":"/characters/?name=Priscilla-Avery",
+    "description":"Oldest [younger] sister"
+  },{
+    "name":"Lily Avery",
+    "url":"/characters/?name=Lily-Avery",
+    "description":"Youngest [younger] sister"
+  },{
+    "name":"Adam Avery",
+    "url":"/characters/?name=Adam-Avery",
+    "description":"Youngest [younger] brother"
+  }]
+}

@@ -1,0 +1,65 @@
+{
+  "names":{
+    "Name":"Lily Avery",
+    "Full Name":"Lily Avery (aa-ver-ee), Lady of Vincelli (venn-chel-ee)",
+    "Other Names":["Miss Lily"]
+  },
+  "basics":{
+    "Birthdate":"September 10",
+    "Age":17,
+    "Zodiac":"Virgo",
+    "Gender":"Cis Female",
+    "Sexuality":"Heterosexual",
+    "Religion":"Catholic"
+  },
+  
+  "appearance":{
+    "Skin color":"Classic Ivory",
+    "Hair color":"Steel Blue",
+    "Eye color":"Forest Green",
+    "Height":"5ft. 8in.",
+    "Body shape":"Pear-shaped, slender"
+  },
+  
+  "personality":{
+    "Polite/Well-mannered":"Well, she was born in a noble family after all.",
+    "Kind":"Probably due mostly to having an elderly governness as well as watching after her younger brother, Lily has a caring and motherly nature.",
+    "Shy":"Due in part to her sheltered lifestyle, but perhaps mostly due to growing up with an extremely haughty and contemptuous older sister. She becomes embarrassed easily even if it's over trivial matters.",
+    "Inquisitive":"She is always looking to learn something, anything. Once she overcomes her shyness, she is apt to ask many questions.",
+    "Naive/Sheltered":"Having grown up in a noble and fairly aloof household, Lily has led a pretty sheltered life. She always wants to think the positively of others and would probably be easy to scam. She is an open-book with her emotions and easy to read."
+  },
+  
+  "skills":{
+    "Lady":"Having come from a noble family, she is at least decent at  cooking, playing the piano, and sewing.",
+    "Sewing":"Of her 'required' skills, Lily most enjoys sewing. Fashion is her creative outlet so she enjoys recycling her old dresses to make new outfits. She has an eye for details."
+  },
+  "hobbies":{
+    "Reading":"Fitting to her inquisitive nature, Lily spends much of her time reading whatever she can get her hands on. If she had to pick, she would probably prefer either a romance fiction novel or a philosophy textbook."
+  },
+  "likes":["...","..."],
+  "dislikes":["...","..."],
+  
+  "story":"Lily is the second youngest child, and the youngest daughter, in the house of Vincelli. Perhaps because she grew up in relative luxury, she never grew attached to material goods. However, she was bullied quite a bit by her older sister and became more self-conscious and shy because of it.",
+  
+  "relationships":[{
+    "name":"Alexander Avery",
+    "url":"/characters/?name=Alexander-Avery",
+    "description":"Father"
+  },{
+    "name":"Katherine Avery",
+    "url":"/characters/?name=Katherine-Avery",
+    "description":"Mother"
+  },{
+    "name":"Henry Avery",
+    "url":"/characters/?name=Henry-Avery",
+    "description":"Oldest [older] brother"
+  },{
+    "name":"Priscilla Avery",
+    "url":"/characters/?name=Priscilla-Avery",
+    "description":"Oldest [older] sister"
+  },{
+    "name":"Adam Avery",
+    "url":"/characters/?name=Adam-Avery",
+    "description":"Youngest [younger] brother"
+  }]
+}

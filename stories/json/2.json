@@ -1,0 +1,33 @@
+{
+  "Title":"Threads of Choice",
+  "Other Titles":["Thread of Change","Threads of Freedom"],
+  "basics":{
+    "Period":"Victorian",
+    "Genre":["Romance","Historical","Fiction"]
+  },
+  "Synopsis":"...",
+  
+  "Main Cast":[{
+    "name":"Lily Avery",
+    "url":"/characters/?name=Lily-Avery",
+    "description":"The heroine."
+  },{
+    "name":"Eric ?",
+    "url":"",
+    "description":"Another protagonist."
+  }],
+  
+  "Side Characters":{
+    "Lily's Family":[{
+      "name":"Alexander Avery",
+      "url":"/characters/?name=Alexander-Avery"
+    },{
+      "name":"Sylvia Avery",
+      "url":"/characters/?name=Sylvia-Avery"
+    }],
+    "Rebellion":[{
+      "name":"",
+      "url":""
+    }]
+  }
+}

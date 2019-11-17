@@ -1,0 +1,51 @@
+{
+  "names":{
+    "Name":"Falcon",
+    "Full Name":"Falcon (fal-ken) Hughes (huu-gz)",
+    "Other Names":[""]
+  },
+  "basics":{
+    "Birthdate":"May 15",
+    "Age":18,
+    "Zodiac":"Taurus",
+    "Gender":"Cis Male",
+    "Sexuality":"Heterosexual",
+    "Religion":"Aetheist"
+  },
+  
+  "appearance":{
+    "Skin color":"Lightly tan",
+    "Hair color":"Deep Green",
+    "Eye color":"Golden Yellow",
+    "Height":"5ft. 8in.",
+  },
+  
+  "personality":{
+    "Witty":"Self-explanatory",
+    "Competitive":"Goes with her nature."
+  },
+  
+  "skills":{
+    "Speed/Evasion":"With her strong athletic background, she is excellent as at stealthy combat.",
+    "Long-range combat":"With a whip as her weapon, she is skilled at long-range combat."
+  },
+  "hobbies":{
+    "Exercising":"One needs to stay fit for her kind of work. She can dance dance, lift weights, and practice gymnastics."
+  },
+  "likes":["...","..."],
+  "dislikes":["...","..."],
+  
+  "story":"",
+  "extras":[
+    "Nicolette is on the list of 'sexiest baby names' on BabyNameWizard.",
+    "Lakatos is Italian(supposedly?) for locksmith.",
+    "Nicolette likes the number 5, because it a number that tetters at the edge, and it therefore unpredictable.",
+    "Nicolette's birthday was derived because her personality is closed like a Taurus, the number 1 is associated with strong will, the number 5 is associated with adventure and motion, and she leans towards Gemini rather than Aries."
+  ],
+  
+  "relationships":[{
+    "name":"Falcon Hughes",
+    "url":"/characters/?name=Falcon-Hughes",
+    "description":"Love interest?"
+  }]
+}

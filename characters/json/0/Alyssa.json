@@ -1,0 +1,56 @@
+{
+  "names":{
+    "Name":"Alyssa",
+    "Full Name":"Alyssa (a-li-sah)",
+    "Other Names":[]
+  },
+  
+  "basics":{
+    "Birthdate":"March 15",
+    "Age":17,
+    "Zodiac":"Aries",
+    "Gender":"Cis Female",
+    "Sexuality":"Heterosexual",
+    "Religion":"Agnostic"
+  },
+  
+  "appearance":{
+    "Skin color":"Lightly tan",
+    "Hair color":"Burgundy",
+    "Eye color":"Orange peel",
+    "Height":"5ft. 7in. (without her usual heels on)",
+    "Body shape":"Hourglass"
+  },
+  
+  "personality":{
+    "Blunt/Frank":"She will not fail to speak her mind even if she just met you. You don't even need to wonder what she's thinking, because she'll be sure to tell you if she thinks your choice of clothing is terrible. She will rarely ever lie; and if she has to keep a secret she will literally tell you: It's a secret.",
+    "Bold":"She's willing to <strike>pick a fight</strike> take risks as long as there is something to be gained, or even just for kicks.",
+    "Fickle/Indecisive but Picky":"Don't go shopping with her, unless you have a book to read while she heatedly debates which article of clothing to buy--only to end up buying both of them.",
+    "Irresponsible":"I would not suggest handing her matters of urgent completion. Put simply, she doesn't really prioritize. The fact that she wears a watch is an ironic reminder that she probably isn't doing something that she should be.",
+    "Witty":"At least you can have a fun conversation with her, just be sure you're ready for her potentially snarky and sarcastic sense of humor.",
+    "Independent":"Being an only child with two busy parents, Alyssa often had to do things on her own. With that mentality she believes that she can do anything she sets her mind to. Therefore she is frustrated by people who act as though fate determines what happens to them.",
+    "Loyal":"She might sound like a terrible person--and be terribly difficult to become close to, she is surprisingly dedicated to the people she considers friend and family. She will not hesitate to defend or help them in times of trouble. She will not question her friends once she has put her trust in them. Of course, the problem is getting her to be your friend in the first place."
+  },
+  
+  "skills":{
+    "Singing":"She loves to go karaoking, but she's not skilled/creative enough to compose her own music."
+  },
+  "hobbies":{
+    "Hip Hop Dancing":"She likes K-pop dances, but usually only 'boy' dances, because they look cool while she thinks most girl ones look ridiculous. She's pretty good at picking up the moves but not by any means a professional dancer.",
+    "Shopping":"For a self-proclaimed fashionista, what did you expect?"
+  },
+  "likes":["clothes","spicy food (especially spicy instant ramen)"],
+  "dislikes":["terrible color coordination","slimy things"],
+  
+  "story":"She grew up an an only child with two busy parents...",
+  
+  "relationships":[{
+    "name":"?",
+    "url":"",
+    "description":"Alyssa's father"
+  },{
+    "name":"?",
+    "url":"",
+    "description":"Alyssa's mother."
+  }]
+}
